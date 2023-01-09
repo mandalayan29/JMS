@@ -1,0 +1,28 @@
+2023-01-09 23:57:06,715 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[/Users/ayanmandal/Desktop/ActiveMQ/apache-activemq-5.17.3/data/kahadb] | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:06,719 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[/Users/ayanmandal/Desktop/ActiveMQ/apache-activemq-5.17.3/data/kahadb] | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:06,748 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | main
+2023-01-09 23:57:06,749 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | main
+2023-01-09 23:57:07,110 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,110 | INFO  | PListStore:[/Users/ayanmandal/Desktop/ActiveMQ/apache-activemq-5.17.3/data/localhost/tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | main
+2023-01-09 23:57:07,111 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,111 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,259 | INFO  | Apache ActiveMQ 5.17.3 (localhost, ID:Ayans-MacBook-Pro.local-50979-1673288827120-0:1) is starting | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,277 | INFO  | Listening for connections at: tcp://Ayans-MacBook-Pro.local:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2023-01-09 23:57:07,277 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | main
+2023-01-09 23:57:07,281 | INFO  | Listening for connections at: amqp://Ayans-MacBook-Pro.local:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2023-01-09 23:57:07,281 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | main
+2023-01-09 23:57:07,285 | INFO  | Listening for connections at: stomp://Ayans-MacBook-Pro.local:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2023-01-09 23:57:07,285 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | main
+2023-01-09 23:57:07,289 | INFO  | Listening for connections at: mqtt://Ayans-MacBook-Pro.local:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | main
+2023-01-09 23:57:07,289 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | main
+2023-01-09 23:57:07,294 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | main
+2023-01-09 23:57:07,376 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | main
+2023-01-09 23:57:07,427 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@3eda0aeb{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | main
+2023-01-09 23:57:07,480 | INFO  | Listening for connections at ws://Ayans-MacBook-Pro.local:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | main
+2023-01-09 23:57:07,481 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | main
+2023-01-09 23:57:07,481 | INFO  | Apache ActiveMQ 5.17.3 (localhost, ID:Ayans-MacBook-Pro.local-50979-1673288827120-0:1) started | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,481 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,486 | WARN  | Store limit is 102400 mb (current store usage is 0 mb). The data directory: /Users/ayanmandal/Desktop/ActiveMQ/apache-activemq-5.17.3/data/kahadb only has 14100 mb of usable space. - resetting to maximum available disk space: 14100 mb | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,487 | WARN  | Temporary Store limit is 51200 mb (current store usage is 0 mb). The data directory: /Users/ayanmandal/Desktop/ActiveMQ/apache-activemq-5.17.3/data only has 14100 mb of usable space. - resetting to maximum available disk space: 14100 mb | org.apache.activemq.broker.BrokerService | main
+2023-01-09 23:57:07,927 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | main
+2023-01-09 23:57:07,927 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | main

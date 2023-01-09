@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework.boot:spring-boot-starter-activemq:2.7.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-activemq/2.7.8-SNAPSHOT/spring-boot-starter-activemq-2.7.8-20230109.120230-8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-activemq/2.7.8-SNAPSHOT/spring-boot-starter-activemq-2.7.8-20230109.120230-8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-activemq/2.7.8-SNAPSHOT/spring-boot-starter-activemq-2.7.8-20230109.120230-8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
